@@ -1,0 +1,19 @@
+{
+  "name": "node101",
+  "version": "1.0.0",
+  "description": "First node 101",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaunish/Node.js-101.git"
+  },
+  "author": "Gaunish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaunish/Node.js-101/issues"
+  },
+  "homepage": "https://github.com/Gaunish/Node.js-101#readme"
+}
