@@ -1,24 +1,16 @@
 {
-  "name": "node101",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "First node 101",
+  "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Gaunish/Node.js-101.git"
-  },
-  "author": "Gaunish",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Gaunish/Node.js-101/issues"
-  },
-  "homepage": "https://github.com/Gaunish/Node.js-101#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.3.0"
   }
 }
