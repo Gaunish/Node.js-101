@@ -12,5 +12,12 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bufferutil": "^4.0.6",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "utf-8-validate": "^5.0.9"
   }
 }
