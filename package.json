@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Gaunish/Node.js-101/issues"
   },
-  "homepage": "https://github.com/Gaunish/Node.js-101#readme"
+  "homepage": "https://github.com/Gaunish/Node.js-101#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
